@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Pila
+comment1.params=
+comment1.target=Pila()
+comment2.params=x
+comment2.target=Pila(int)
+comment3.params=
+comment3.target=boolean\ full()
+comment4.params=
+comment4.target=boolean\ empty()
+comment5.params=e
+comment5.target=void\ push(java.lang.Object)
+comment6.params=
+comment6.target=void\ pop()
+comment7.params=
+comment7.target=void\ stampa()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
